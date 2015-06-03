@@ -1,0 +1,13 @@
+function loadCourses(stuId){
+	
+	$.getJSON("bookings/courses",{sId: stuId}, function(data){
+		var items  = [];
+		items.push("<option value='Select'>Select</option>");
+		$.each(data, function(id, name){
+// 				items.push("<option value=" + name.courseId + ">" + name.courseCode + " - " + name.courseName +"</option>"); // syntax in case parameter passed is a Table Object 
+			items.push("<option value=" + name[0] + ">" + name[1] + " - " + name[2] +"</option>"); // syntax for Array list 
+		});
+		$("#course").append(items)
+	});
+		
+}

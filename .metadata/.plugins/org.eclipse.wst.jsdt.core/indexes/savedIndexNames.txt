@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+/Users/Marcel/Estudo/STS1/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3955894975.index
+33970305.index
+3682903396.index
+3710177477.index
+569063343.index
+3052658734.index

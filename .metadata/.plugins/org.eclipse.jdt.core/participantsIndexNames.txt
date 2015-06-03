@@ -1,0 +1,15 @@
+INDEX VERSION 1.127
+/Users/Marcel/Estudo/STS1/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3760027049.index
+/Spring3MvcUploadFile/src
+/Users/Marcel/Estudo/STS1/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3975702240.index
+/FILMTV/src/main/java
+/Users/Marcel/Estudo/STS1/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3850309569.index
+/Exercises/src/main/java
+/Users/Marcel/Estudo/STS1/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3833651154.index
+/Exercise2/src/main/java
+/Users/Marcel/Estudo/STS1/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/29397085.index
+/SpringMyTry/src/main/java
+/Users/Marcel/Estudo/STS1/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/71802991.index
+/FILMTV/src/main/java
+/Users/Marcel/Estudo/STS1/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/406355343.index
+/Spring3MvcUploadFile/src

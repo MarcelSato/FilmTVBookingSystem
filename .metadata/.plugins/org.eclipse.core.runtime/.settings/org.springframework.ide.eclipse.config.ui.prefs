@@ -1,0 +1,5 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/FILMTV/src/main/resources/META-INF/spring/applicationContext.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/FILMTV/src/main/webapp/WEB-INF/spring/webmvc-config.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage id\="com.springsource.sts.config.ui.editors.mvc" index\="5" kind\="formPage" uri\="http\://www.springframework.org/schema/mvc"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/FILMTV/target/m2e-wtp/web-resources/META-INF/spring/applicationContext.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/SpringExample/src/main/resources/Spring-Mail.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+eclipse.preferences.version=1

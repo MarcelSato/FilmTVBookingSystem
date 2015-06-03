@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="“MarcelSato” &lt;“marcelfsato@gmail.com”&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="“MarcelSato” &lt;“marcelfsato@gmail.com”&gt;"/>
+	</list>
+	<section name="GitCommitMessageComponent">
+		<list key="/Users/Marcel/Estudo/STS1/FILMTV/.git">
+			<item value="false"/>
+			<item value=""/>
+			<item value="# WARNING: head commit changed in the meantime&#x0D;&#x0D;email working"/>
+			<item value=""/>
+			<item value="c4c1adeabb2a2280f54369d7bcd60772cfc8ae7d"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item value="650" key="DIALOG_WIDTH"/>
+		<item value="383" key="DIALOG_Y_ORIGIN"/>
+		<item value="440" key="DIALOG_HEIGHT"/>
+		<item value="907" key="DIALOG_X_ORIGIN"/>
+		<item value="1|.Helvetica Neue DeskInterface|11.0|0|COCOA|1|.HelveticaNeueDeskInterface-Regular" key="DIALOG_FONT_NAME"/>
+	</section>
+</section>
