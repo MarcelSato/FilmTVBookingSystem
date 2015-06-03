@@ -1,0 +1,63 @@
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2015-02-05 11:38:05
+project --topLevelPackage org.gre.filmtv --projectName FILMTV --java 7 --packaging JAR
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log closed at 2015-02-05 11:38:14
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2015-02-05 11:38:17
+osgi start --url file:/Users/Marcel/.m2/repository/mysql/mysql-connector-java/5.1.18/mysql-connector-java-5.1.18.jar
+jpa setup --database MYSQL --provider HIBERNATE
+database reverse engineer --schema FTV
+web mvc setup
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log closed at 2015-02-11 17:52:42
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2015-02-16 13:49:38
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log closed at 2015-02-16 22:10:46
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2015-02-16 22:11:00
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log closed at 2015-02-16 22:17:16
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2015-02-16 22:17:30
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log closed at 2015-02-23 13:37:21
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2015-02-23 14:55:30
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log closed at 2015-02-23 16:39:15
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2015-02-24 15:30:12
+database reverse engineer --schema FTV
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log closed at 2015-02-24 15:52:26
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2015-02-25 04:41:35
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log closed at 2015-02-25 04:44:46
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2015-02-25 22:30:41
+database reverse engineer --schema FTV
+database reverse engineer --schema FTV
+database reverse engineer --schema FTV
+database reverse engineer --schema FTV
+database reverse engineer --schema FTV
+database reverse engineer --schema FTV
+database reverse engineer --schema FTV
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log closed at 2015-02-27 08:15:04
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2015-02-27 08:56:07
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log closed at 2015-02-27 09:39:43
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2015-03-07 17:08:46
+database reverse engineer --schema FTV
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2015-03-09 19:31:41
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log closed at 2015-03-11 12:32:28
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2015-03-11 12:37:32
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log closed at 2015-03-11 12:48:57
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2015-03-11 13:45:55
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log closed at 2015-03-11 16:28:22
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2015-03-11 16:49:06
+database reverse engineer --schema FTV
+database reverse engineer --schema FTV
+database reverse engineer --schema FTV
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log closed at 2015-03-16 13:13:01
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2015-03-16 13:22:39
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log closed at 2015-03-16 13:26:28
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2015-03-16 14:23:25
+database reverse engineer --schema FTV
+database reverse engineer --schema FTV
+database reverse engineer --schema FTV
+database reverse engineer --schema FTV
+database reverse engineer --schema FTV
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log closed at 2015-03-17 17:31:04
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2015-03-18 00:18:41
+database reverse engineer --schema FTV
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log closed at 2015-03-18 02:24:50
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2015-03-18 03:06:19
+database reverse engineer --schema FTV
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log closed at 2015-03-18 14:24:38
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2015-04-14 23:20:48
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log closed at 2015-04-14 23:26:35

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tiles-definitions PUBLIC
+	"-//Apache Software Foundation//DTD Tiles Configuration 2.1//EN"
+	"http://tiles.apache.org/dtds/tiles-config_2_1.dtd">
+
+<tiles-definitions>
+
+  <definition name="login" extends="nothing">
+    <put-attribute name="body" value="/WEB-INF/views/login.jsp" />
+  </definition>
+
+  <definition name="home" extends="nothing">
+    <put-attribute name="body" value="/WEB-INF/views/home.jsp" />
+  </definition>
+  
+  <definition name="tc" extends="nothing">
+    <put-attribute name="body" value="/WEB-INF/views/tc.jsp" />
+  </definition>
+  
+  <definition name="bookings" extends="nothing">
+    <put-attribute name="body" value="/WEB-INF/views/bookings.jsp" />
+  </definition>
+  
+  <definition name="students" extends="nothing">
+    <put-attribute name="body" value="/WEB-INF/views/students.jsp" />
+  </definition>
+  
+  <definition name="equip" extends="nothing">
+    <put-attribute name="body" value="/WEB-INF/views/equip.jsp" />
+  </definition>
+  
+  <definition name="ra" extends="nothing">
+    <put-attribute name="body" value="/WEB-INF/views/ra.jsp" />
+  </definition>
+  
+  <definition name="finish" extends="nothing">
+    <put-attribute name="body" value="/WEB-INF/views/finish.jsp" />
+  </definition>
+  
+   <definition name="confirmation" extends="nothing">
+    <put-attribute name="body" value="/WEB-INF/views/confirmation.jsp" />
+  </definition>
+  
+  <definition name="myBookings" extends="nothing">
+    <put-attribute name="body" value="/WEB-INF/views/myBookings.jsp" />
+  </definition>
+<!--   Have to handle this better , but for now will redirect any wrong URL to notFound -->
+
+  <definition name="dataAccessFailure" extends="nothing">
+    <put-attribute name="body" value="/WEB-INF/views/notFound.jsp" />
+  </definition>
+
+  <definition name="resourceNotFound" extends="nothing">
+    <put-attribute name="body" value="/WEB-INF/views/notFound.jsp" />
+  </definition>
+
+  <definition name="uncaughtException" extends="nothing">
+    <put-attribute name="body" value="/WEB-INF/views/notFound.jsp" />
+  </definition>
+
+</tiles-definitions>

@@ -1,0 +1,156 @@
+.ui-tooltip, .arrow:after {
+  background: black;
+  border: 2px solid white;
+}
+.ui-tooltip {
+  padding: 10px 20px;
+  color: white;
+  border-radius: 20px;
+  font: bold 14px "Helvetica Neue", Sans-Serif;
+  text-transform: uppercase;
+  box-shadow: 0 0 7px black;
+}
+.arrow {
+  width: 70px;
+  height: 16px;
+  overflow: hidden;
+  position: absolute;
+  left: 50%;
+  margin-left: -35px;
+  bottom: -16px;
+}
+.arrow.top {
+  top: -16px;
+  bottom: auto;
+}
+.arrow.left {
+  left: 20%;
+}
+.arrow:after {
+  content: "";
+  position: absolute;
+  left: 20px;
+  top: -20px;
+  width: 25px;
+  height: 25px;
+  box-shadow: 6px 5px 9px -9px black;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.arrow.top:after {
+  bottom: -20px;
+  top: auto;
+}
+
+.myContainer{
+
+} 
+.dropdown-menu table{
+	color: #898f8c;
+
+}
+.dropdown-menu table td{
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
+.myMenu{
+	padding-left: 5px !important;
+
+}
+
+.active{
+	background-color: #8DE670 !important;
+}
+
+.activeRed{
+	background-color: red !important;
+}
+.basketDD{
+	float:right;
+	display: inline-block;
+}
+.bookingDD{
+	display: inline-block;
+}
+.bookingDD table tr td{
+	padding-left: 3px;
+}
+.basketQty{
+	width: 50px;
+}
+.qtyBtn{
+	width: auto;
+	font-size: x-small !important;
+	background-color: white;
+/* 	height: 35px; */
+	display:inline-block !important;
+	vertical-align: middle !important;
+}
+.qtyDwn{
+	height: 28px;
+}
+.newTable tr td {
+	padding-left: 5px !important;
+	padding-right: 5px !important;
+}
+
+.cntBtn{
+	text-align: center !important;
+}
+.equiBtn{
+	height: 30px;
+}
+.equiDiv{
+	margin-bottom: 10px;
+}
+.equiDiv button{
+	background-color: #d9d9d9;
+}
+.btnNew {
+/*     position: relative !important; */
+/*     overflow: hidden !important; */
+	margin-bottom: 10px !important;
+}
+/* .btnNew input[type=file] { */
+/*     position: absolute !important; */
+/*     top: 0 !important; */
+/*     right: 0 !important; */
+/*     min-width: 100% !important; */
+/*     min-height: 100% !important; */
+/*     font-size: 100px !important; */
+/*     text-align: right !important; */
+/*     filter: alpha(opacity=0) !important; */
+/*     opacity: 0 !important; */
+/*     outline: none !important; */
+/*     background: white !important; */
+/*     cursor: inherit !important; */
+/*     display: block !important; */
+/* } */
+
+.bkngBtn{
+	pointer-events: none;
+}
+.reviewTd{
+	text-align: center;
+	font-weight: bold;
+}
+
+.newJumbo{
+	padding: 10px !important;
+}
+.notAvailable{
+	background-color: #ff363e;
+	color:white;
+	pointer-events: none;
+}
+.newFooter{
+
+}
+.container{
+
+}
+.newBody{
+
+}
